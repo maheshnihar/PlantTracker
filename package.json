@@ -1,0 +1,13 @@
+{
+  "name": "plant-tracker",
+  "version": "1.0.0",
+  "description": "Plant Tracker web and app",
+  "main": "index.js",
+  "repository": "https://github.com/maheshnihar/PlantTracker.git",
+  "author": "maheshnihar <maheshnihar@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "create-react-app": "^3.4.0"
+  }
+}
